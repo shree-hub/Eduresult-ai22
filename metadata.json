@@ -1,0 +1,7 @@
+{
+  "description": "Student Result Management System with AI Answer Sheet Scanner.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "EduResult AI"
+}
